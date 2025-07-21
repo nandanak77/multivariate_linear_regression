@@ -1,1 +1,1 @@
-# multivariate_polynomial_regression
+# multivariate_linear_regression
